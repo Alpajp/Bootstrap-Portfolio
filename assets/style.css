@@ -1,4 +1,8 @@
-~ /* Flex styles -------------------------------------------------*/
+.red {
+  color: red;
+}
+
+/* Flex styles -------------------------------------------------*/
 header {
     display: flex;
     align-items: center;
